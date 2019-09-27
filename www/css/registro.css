@@ -1,0 +1,58 @@
+@media screen and (max-width: 1025px)   {    
+    
+    h1{
+        font-style: 'Roboto';
+        font-weight: bolder;
+        color: #09BDE6;
+        
+    }
+    label{
+        font-weight: bolder;
+    }
+    .imagen {
+        display: block;
+        width: 100px;
+        height: 60px;
+        margin: auto;
+        margin-bottom: 5px;
+    }
+    .form{
+        text-align: center;
+    }
+    
+    .bloq {
+        text-align: center;
+        border: 2px solid #eeeeee;
+        border-radius: 5px;
+        display: block;
+        margin-top: 10px;
+        color: #fff;
+        border-radius: 5px 5px 66px 5px;
+        -moz-border-radius: 5px 5px 66px 5px;
+        -webkit-border-radius: 5px 5px 66px 5px;
+        border: 0px solid #000000;
+    }
+    
+    .btn{
+        text-align: center;
+        margin: 10px;
+        width: 100px;
+        height: 50px;
+        border-radius: 5px 5px 5px 5px;
+        -moz-border-radius: 5px 5px 5px 5px;
+        -webkit-border-radius: 5px 5px 5px 5px;
+        background: #3D9970;
+        color: #fff;
+        font-family: 'Roboto';
+        font-size: 16px;
+    }
+    .align{
+        
+        text-align: left;
+       
+    }
+    
+    .comp_margin{
+        margin-left: 10px;
+    }
+}

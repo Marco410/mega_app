@@ -1,0 +1,67 @@
+@media screen and (max-width: 1025px)  {
+
+    
+    h1{
+        font-size: 30px;
+        font-family: 'Roboto';
+        color: #09BDE6;
+        top: 0;
+        text-align: center;
+        font-weight: bolder;
+        
+    }
+    .imagen {
+        width: 90px;
+        height: 90px;
+        display: block;
+        margin: auto;
+    }
+    
+    label{
+        font-weight: bolder;
+        font-size: 15px;
+        color: #222d32;
+    }
+    
+    .bloq {
+    text-align: center;
+    border: 2px solid #eeeeee;
+    border-radius: 5px;
+    
+    display: block;
+    margin-top: 10px;
+    border-radius: 5px 5px 66px 5px;
+    -moz-border-radius: 5px 5px 66px 5px;
+    -webkit-border-radius: 5px 5px 66px 5px;
+    border: 0px solid #000000;
+    }
+    
+    .color1{
+        background: #3D9970;
+    }
+    
+    .color2{
+        background: #FF851B;
+    }
+    .color3{
+        background: #09bde4;
+    }
+    .color4{
+        background: #75655F;
+    }
+    
+    h2{
+        color: #fff;
+        text-align: center;
+        font-family: 'Roboto';
+        font-size: 20px;
+        padding: 2px;
+        
+    }
+    
+    .cont{
+        text-align: left;
+        margin: 5px;
+    }
+    
+}
